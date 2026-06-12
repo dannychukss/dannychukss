@@ -14,9 +14,16 @@ Leveraging my background in computer science and network engineering, I am activ
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network Traffic Analysis & Threat Detection   | <a href="https://github.com/YOUR_GITHUB_USERNAME/ai-network-sniffer">AI Network Sniffer</a> |
+| Automated Incident Alerting & Threat Intel    | <a href="https://github.com/YOUR_GITHUB_USERNAME/ai-network-sniffer">AI Network Sniffer</a> |
+| IP Routing, NAT, & DHCP Server Configuration  | <a href="https://github.com/YOUR_GITHUB_USERNAME/network-infrastructure-labs">Advanced Networking Labs</a> |
 | Network Segmentation, VTP, & Trunking         | <a href="https://github.com/YOUR_GITHUB_USERNAME/network-infrastructure-labs">Advanced Networking Labs</a> |
+| Inter-VLAN Routing & Sub-interface Config     | <a href="https://github.com/YOUR_GITHUB_USERNAME/network-infrastructure-labs">Advanced Networking Labs</a> |
+| Access Control Lists (ACL) & Traffic Filtering | <a href="https://github.com/YOUR_GITHUB_USERNAME/network-infrastructure-labs">Advanced Networking Labs</a> |
+| Layer 2 Redundancy & Bandwidth (STP, EtherChannel) | <a href="https://github.com/YOUR_GITHUB_USERNAME/network-infrastructure-labs">Advanced Networking Labs</a> |
+| Remote Access Administration (Radmin Server/Viewer) | General Lab & Support Work |
+| Technical Support & Network Troubleshooting   | Internship & Support Work |
+| Containerized Lab Deployment (Docker)         | General Lab & Troubleshooting Work |
 | Operating System Fundamentals & File Management| General Lab & Troubleshooting Work |
-| Technical Support & Troubleshooting           | Internship & Support Work |
 
 
 
@@ -28,6 +35,19 @@ Leveraging my background in computer science and network engineering, I am activ
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
+### Remote Administration & Virtualization
+<div>
+    <img src="https://img.shields.io/badge/-Radmin_Server%2FViewer-008000?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
+</div>
+
+### Development & Automation
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=Git&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" />
+</div>
+
 ### Operating Systems & Utilities
 <div>
     <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
@@ -35,32 +55,11 @@ Leveraging my background in computer science and network engineering, I am activ
     <img src="https://img.shields.io/badge/-ZArchiver-008000?&style=for-the-badge&logo=Android&logoColor=white" />
 </div>
 
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
 ## Certifications & Training
 <div>
-<img src="https://img.shields.io/badge/-Cisco_Introduction_to_Cybersecurity-005A9C?&style=for-the-badge&logo=Cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-Jobberman_Workplace_Success-FF6600?&style=for-the-badge&logoColor=white" />
-</div>
+<a href= "https://www.credly.com/badges/2c7bec9f-0a37-4d25-b0dd-527e4020a730/linked_in_profile"><img src="https://img.shields.io/badge/-Cisco_Introduction_to_Cybersecurity-005A9C?&style=for-the-badge&logo=Cisco&logoColor=white" /></a>
+<a href="https://www.jobberman.com/certificate/45690e3f-ec10-42ec-9ecf-1da511bfc7c5"><img src="https://img.shields.io/badge/-Jobberman_Workplace_Success-FF6600?&style=for-the-badge&logoColor=white" />
+</a></div>
 
 
 ## Projects
