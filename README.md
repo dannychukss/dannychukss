@@ -13,7 +13,7 @@ Leveraging my background in computer science and network engineering, I am activ
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Traffic Analysis & Threat Detection   | <a href="https://github.com/YOUR_GITHUB_USERNAME/ai-network-sniffer">AI Network Sniffer</a> |
+| Network Traffic Analysis & Threat Detection   | <a href="https://github.com/dannychukss/AI-Network-Sniffer/blob/main/README.md">AI Network Sniffer</a> |
 | Automated Incident Alerting & Threat Intel    | <a href="https://github.com/YOUR_GITHUB_USERNAME/ai-network-sniffer">AI Network Sniffer</a> |
 | IP Routing, NAT, & DHCP Server Configuration  | <a href="https://github.com/YOUR_GITHUB_USERNAME/network-infrastructure-labs">Advanced Networking Labs</a> |
 | Network Segmentation, VTP, & Trunking         | <a href="https://github.com/YOUR_GITHUB_USERNAME/network-infrastructure-labs">Advanced Networking Labs</a> |
